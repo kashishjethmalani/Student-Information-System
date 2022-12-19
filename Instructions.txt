@@ -1,0 +1,6 @@
+Instructions to run the project:
+
+First run the Login.py file.
+Passwords of both Faculty and Student interface is “GUEST”.
+Run the Faculty.py program before Student.py.
+In Faculty.py First add the entries to run other functions.
